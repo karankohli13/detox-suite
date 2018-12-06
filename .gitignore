@@ -1,0 +1,6 @@
+node_modules/*
+package-lock.json
+.vscode/*
+dump.rdb
+.DS_Store
+result.csv
